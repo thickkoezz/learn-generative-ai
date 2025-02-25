@@ -38,7 +38,7 @@ if file is not None:
     st.write(f"You have uploaded a file named {file.name}")
     df = pd.read_csv(file)
     st.write(df)
-    
+    st.line_chart(df)
 
 multi_file = st.file_uploader("Upload multiple files", accept_multiple_files=True, type=["jpg", "png", "jpeg", "gif"])
 if multi_file is not None: 

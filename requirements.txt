@@ -1,0 +1,10 @@
+jupyter
+matplotlib
+ipywidgets
+numpy
+scipy
+imageio
+scikit-image
+pandas
+streamlit
+nltk

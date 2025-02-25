@@ -13,3 +13,6 @@
 - pandas
 - streamlit
 - nltk
+- openai
+- langchain
+- huggingface

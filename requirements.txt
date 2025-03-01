@@ -8,4 +8,5 @@ scikit-image
 pandas
 streamlit
 nltk
+gensim
 spacy

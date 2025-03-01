@@ -13,6 +13,8 @@
 - pandas
 - streamlit
 - nltk
+- gensim
+- spacy
 - openai
 - langchain
 - huggingface

@@ -4,9 +4,12 @@ ipywidgets
 numpy
 scipy
 imageio
+scikit-learn
 scikit-image
 pandas
 streamlit
 nltk
 gensim
 spacy
+tensorflow==2.15.0
+tensorboard
